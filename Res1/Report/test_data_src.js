@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\PC Techs\\Documents\\UFT One\\WordpressTest\\Res1',namePairs:[]}]};
